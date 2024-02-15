@@ -50,6 +50,37 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 12. Gain deeper insights into client preferences and manage inventories smartly.
 
+# Configuration
+1. Enable or disable Extension from here. Select the Email Template to share the wishlist via email.
+   
+![Configuration](https://github.com/patelanny/magento-2-multiple-wishlists/assets/121279820/ed14a16e-bbca-471d-aaf8-bf5abe4ab3f2)
+
+# Benefits of Magento 2 Multiple Wishlists Extension
+
+1. Manage several wishlists based on preferences.
+
+![Screenshot (32)](https://github.com/patelanny/magento-2-multiple-wishlists/assets/121279820/b3d6d3b3-dcbf-4d52-85ac-2abfdce39c66)
+
+2. Easily share your Wishlist with your loved ones
+
+![Screenshot (31)](https://github.com/patelanny/magento-2-multiple-wishlists/assets/121279820/57c2671a-7e56-4452-aec5-a3c3d01ae262)
+
+3. The user can perform various actions on the wishlists.
+
+![Screenshot (33)](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/30a1db3c-3efa-4a1d-98c8-5d228fdbdf04)
+
+4. Easily add Wishlist to cart & checkout.
+
+![Screenshot (34)](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/74a326bb-22d2-4d44-8803-ae57a582d266)
+
+5. In My Account user can update Wishlist Items.
+
+![Screenshot (35)](https://github.com/patelanny/magento-2-multiple-wishlists/assets/121279820/819c0fe5-dc51-4a37-b639-25897633efae)
+
+6. Delete Wishlist Items from My Account
+
+![Screenshot (36)](https://github.com/patelanny/magento-2-multiple-wishlists/assets/121279820/c3592d16-04e0-4ed4-8d48-b7e27ff44cac)
+
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
 
