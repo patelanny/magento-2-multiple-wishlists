@@ -44,6 +44,12 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 9. Manage wishlists through My Account.
 
+10. Reduce cart abandonment rates and improve sales.
+
+11. Provide a personalized buying experience for customers.
+
+12. Gain deeper insights into client preferences and manage inventories smartly.
+
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
 
@@ -61,9 +67,3 @@ Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> fo
 **Email:** support@magecomp.com
 
 ![Screenshot Capture - 2024-02-08 - 14-53-02](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/94de763e-31bc-4fb3-b807-6a6108bc5eea)
-10. Reduce cart abandonment rates and improve sales.
-
-11. Provide a personalized buying experience for customers.
-
-12. Gain deeper insights into client preferences and manage inventories smartly.
-
